@@ -1,7 +1,7 @@
 # Primeira atividade de Introdução a Computação Gráfica
 # Professor: Christian Azambudja Pagot
-# Júlio Cesar Basílio Alves
-# Thomás Augusto Gouveia Chaves
+# Júlio Cesar Basílio Alves	20180007631
+# Thomás Augusto Gouveia Chaves 20180002671
 
 ---
 
