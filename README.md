@@ -118,14 +118,21 @@ também rasterizando polígonos preenchidos.
 <p align="center">
 	<br>
 	<img src="./img/octantesresult.png"/ width=400px height=403px>
-	<h5 align="center"></h5>
+	<h5 align="center">Rasterização de linhas nos octantes</h5>
+	<br>
+</p>
+
+<p align="center">
+	<br>
+	<img src="./img/resultado1.png"/ width=471px height=478px>
+	<h5 align="center">Rasterização de triângulos e linhas</h5>
 	<br>
 </p>
 
 <p align="center">
 	<br>
 	<img src="./img/resultado2.png"/ width=450px height=384px>
-	<h5 align="center"></h5>
+	<h5 align="center">Preenchimento de Triângulo</h5>
 	<br>
 </p>
 
