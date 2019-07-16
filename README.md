@@ -117,6 +117,13 @@ também rasterizando polígonos preenchidos.
 
 <p align="center">
 	<br>
+	<img src="./img/pixelss.png"/ width=86px height=86px>
+	<h5 align="center">Rasterização de Pixels</h5>
+	<br>
+</p>
+
+<p align="center">
+	<br>
 	<img src="./img/octantesresult.png"/ width=400px height=403px>
 	<h5 align="center">Rasterização de linhas nos octantes</h5>
 	<br>
