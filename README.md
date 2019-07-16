@@ -113,7 +113,7 @@ DrawLine, que permitiu a rasterização de linhas retas.
 ## Conclusão final
 A implementação do Algorítimo de Bresenham foi bem sucedida, gerando
 resultados satisfatórios, rasterizando linhas para todos octantes. E
-também rasterizado polígonos preenchidos.
+também rasterizando polígonos preenchidos.
 
 <p align="center">
 	<br>
