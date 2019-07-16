@@ -22,7 +22,7 @@ imagem de pixels em uma tela.
 <p align="center">
 	<br>
 	<img src="./img/pixels.png"/ width=655px height=632px>
-	<h5 align="center">Coordenada dos pixels</h5>
+	<h5 align="center"></h5>
 	<br>
 </p>
 
@@ -33,7 +33,7 @@ a sua posição matricial em uma tela.
 <p align="center">
 	<br>
 	<img src="./img/putpixel.png"/ width=691px height=258px>
-	<h5 align="center">Função PutPixel</h5>
+	<h5 align="center"></h5>
 	<br>
 </p>
 
